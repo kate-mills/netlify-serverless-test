@@ -58,3 +58,13 @@ main {
  line-height: 1.25rem;
  padding: 0.25rem;
 }
+
+
+@media screen and (max-width: 800px){
+  main{
+    width: 85vw;
+  }
+  .products{
+    grid-template-columns: 1fr;
+  }
+}
