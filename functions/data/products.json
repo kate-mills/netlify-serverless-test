@@ -1,18 +1,18 @@
 [
   {
     "sku": "DEMO001",
-    "name": "This Pretty Plant",
-    "description": "Look at this pretty plant. Photo by Galina N on Unsplash.",
-    "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=600&h=600&q=80",
-    "amount": 1000,
+    "name": "Peptide Rich & Radiant Eye Cream",
+    "description": "Beautifully addresses all your eye care concerns. Reduces the appearance of sagging contours, fine lines and wrinkles for a noticeably more lifted look. Visibly relieves puffiness while creating the perfect moisture balance. Brightens dark circles in the eye area.",
+    "image":"https://i.ibb.co/Lvhxj9M/rareye-retail.jpg",
+    "amount": 3000,
     "currency": "USD"
   },
   {
     "sku": "DEMO002",
-    "name": "Adventure Mug",
-    "description": "We’re going on an adventure! Photo by Annie Spratt on Unsplash.",
-    "image": "https://images.unsplash.com/photo-1454329001438-1752daa90420?auto=format&fit=crop&w=600&h=600&q=80",
-    "amount": 1500,
+    "name": "Plump & Renew Lip Balm",
+    "description": "A balm that tames fine lines and wrinkles on and around the lip area. It is a blend rich in antioxidants, nourishing oils and butters that help protect the skin from free radical assault. Its blend of peptides encourage collagen renovation, resulting in improved elasticity and restoration of a more youthful and plump complexion. The increase in hydration delivers softer, fuller lips.",
+    "image": "https://i.ibb.co/0JJcQjz/prlip-retail.jpg",
+    "amount": 3500,
     "currency": "USD"
   }
 ]
